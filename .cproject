@@ -41,6 +41,7 @@
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.ti.ccstudio.buildDefinitions.MSP432_18.12.compilerID.INCLUDE_PATH.1851183013" name="Add dir to #include search path (--include_path, -I)" superClass="com.ti.ccstudio.buildDefinitions.MSP432_18.12.compilerID.INCLUDE_PATH" valueType="includePath">
 									<listOptionValue builtIn="false" value="${INHERITED_INCLUDE_PATH}"/>
+									<listOptionValue builtIn="false" value="${workspace_loc:/DelfiPQcore}"/>
 									<listOptionValue builtIn="false" value="${workspace_loc:/CodeCoverage}"/>
 									<listOptionValue builtIn="false" value="${CCS_BASE_ROOT}/arm/include"/>
 									<listOptionValue builtIn="false" value="${COM_TI_SIMPLELINK_MSP432_SDK_INSTALL_DIR}/source/ti/devices/msp432p4xx/driverlib"/>
